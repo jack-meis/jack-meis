@@ -2,7 +2,7 @@
 
 **I am a senior at the University of Iowa majoring and Accounting and Business Analytics & Information Systems.**
 
-**email:** jackson-meis@uiowa.edu  
+**Feel from to contact me at my email:** jackson-meis@uiowa.edu  
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/jack-meis)**
 
 <!--
