@@ -3,7 +3,7 @@
 **I am a senior at the University of Iowa majoring and Accounting and Business Analytics & Information Systems.**
 
 **email:** jackson-meis@uiowa.edu  
-**LinkedIn:** https://www.linkedin.com/in/jack-meis/
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/jack-meis)**
 
 <!--
 **jack-meis/jack-meis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
