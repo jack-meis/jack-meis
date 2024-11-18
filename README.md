@@ -1,6 +1,6 @@
 ## Hi there, I'm Jack 👋
 
-I am a senior at the University of Iowa majoring and Accounting and Business Analytics & Information Systems.
+**I am a senior at the University of Iowa majoring and Accounting and Business Analytics & Information Systems.**
 
 <!--
 **jack-meis/jack-meis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
